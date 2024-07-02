@@ -8,7 +8,9 @@
     "test": "npm run lint && npm run prettier:check"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.4",
     "@tailwindcss/forms": "^0.5.7",
+    "bcrypt": "^5.1.1",
     "next": "^14.0.0"
   },
   "devDependencies": {
